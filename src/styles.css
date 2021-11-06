@@ -136,6 +136,7 @@ p {
     height: 500px;
     box-shadow: 5px 5px 20px rgb(100, 117, 139);
     margin: 10px;
+    background-color: whitesmoke
 }
 
 .project-container {
@@ -165,6 +166,17 @@ a {
     text-decoration: none;
     color: white;
 
+}
+
+.project-link {
+    text-decoration: none;
+    color: blue;
+}
+
+.resume-link {
+    color: rgb(202, 202, 230);
+    font-size: 30px;
+    font-style: italic;
 }
 
 
