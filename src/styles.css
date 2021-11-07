@@ -127,7 +127,7 @@ p {
     width: 300px;
     border-radius: 5px;
 }
-.container {
+.headshot-container {
     display: flex;
     align-items: center;
 }
