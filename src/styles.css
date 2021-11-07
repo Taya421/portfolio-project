@@ -5,7 +5,7 @@ body {
 section {
     
     background: white;
-    border: solid black 1px;
+    border: none;
 }
 
 .sub-section-alternative {
