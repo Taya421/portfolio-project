@@ -18,7 +18,7 @@ styles.css
 imgages folder
 
 Screenshot
-![portfolioscreenshot](https://user-images.githubusercontent.com/89947774/134788507-fa330f8e-72e4-4a21-a964-a172c9bd05b0.png)
+![Updatedportfoliopicture](https://user-images.githubusercontent.com/89947774/140627910-4db23fb0-4bd7-42cd-a3f3-d03c3dd699aa.png)
 
 URL
 https://taya421.github.io/portfolio-project/
