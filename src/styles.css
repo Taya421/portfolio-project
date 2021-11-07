@@ -37,9 +37,10 @@ nav {
 ul {
     display: flex;
     list-style-type: none;
-    width: 500px;
+    width: 700px;
     justify-content: space-around;
     font-size: 30px;
+    
 }
 
 li {
@@ -144,12 +145,7 @@ p {
     justify-content: space-around;
 }
 
-@media only screen and (max-width: 1000px) {
-    .project-container {
-        display: flex;
-        flex-wrap: wrap;
-    }
-}
+
 
 .project-image {
     margin-top: 25px;
